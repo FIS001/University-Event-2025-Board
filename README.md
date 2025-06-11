@@ -40,43 +40,43 @@ The group responsible for organizing and offering tours of the HHN (e.g., Techno
 
 ### 📌 **(02) External Partner Workshops**  
 The group responsible for organizing and delivering external partner workshops (e.g., SAP, AI Salon).  
-➡️ **[Join the External Partner Workshops Team](#)**
+➡️ **[Join the External Partner Workshops Team](https://github.com/users/FIS001/projects/9)**
 
 ### 📌 **(03) Internal Partner Workshops**  
 Responsible for organizing and offering internal partner workshops (e.g., SAAI, Makerspace, Startklar).  
-➡️ **[Join the Internal Partner Workshops Team](#)**
+➡️ **[Join the Internal Partner Workshops Team](https://github.com/users/FIS001/projects/7)**
 
 ### 📌 **(04) Session Management**  
 Responsible for content coordination, session planning, and moderation.  
-➡️ **[Join the Session Management Team](#)**
+➡️ **[Join the Session Management Team](https://github.com/users/FIS001/projects/10)**
 
 ### 📌 **(05) Room Management & Provision**  
 Responsible for room setup, decor, and ensuring the rooms meet technical requirements.  
-➡️ **[Join the Room Management Team](#)**
+➡️ **[Join the Room Management Team](https://github.com/users/FIS001/projects/10)**
 
 ### 📌 **(06) Finance/Budget**  
 Responsible for creating and monitoring the financial plan.  
-➡️ **[Join the Finance/Budget Team](#)**
+➡️ **[Join the Finance/Budget Team](https://github.com/users/FIS001/projects/12)**
 
-### 📌 **(07) Drinks, Lunch & Snacks**  
+### 📌 **(07) Catering & Hospitality**  
 Responsible for organizing drinks and snacks at the event.  
-➡️ **[Join the Drinks, Lunch & Snacks Team](#)**
+➡️ **[Join Catering & Hospitality Team](https://github.com/users/FIS001/projects/15)**
 
 ### 📌 **(08) School Cooperation & Registration**  
 Responsible for participant management and school partnerships.  
-➡️ **[Join the School Cooperation Team](#)**
+➡️ **[Join the School Cooperation Team](https://github.com/users/FIS001/projects/16)**
 
 ### 📌 **(09) Documentation & Internal Communication**  
 Responsible for documenting the event and keeping everyone informed.  
-➡️ **[Join the Documentation Team](#)**
+➡️ **[Join the Documentation Team](https://github.com/users/FIS001/projects/18)**
 
 ### 📌 **(10) Marketing & External Communication**  
 Responsible for promoting the event and building media partnerships.  
-➡️ **[Join the Marketing Team](#)**
+➡️ **[Join the Marketing Team](https://github.com/users/FIS001/projects/13)**
 
-### 📌 **(11) Research**  
+### 📌 **(11) Technical Support & IT**  
 Responsible for researching the event's impact and promoting women in computer science.  
-➡️ **[Join the Research Team](#)**
+➡️ **[Join the Technical Support & IT Team](https://github.com/users/FIS001/projects/14)**
 
 ---
 
