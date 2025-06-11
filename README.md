@@ -36,7 +36,7 @@ Here are the teams and their responsibilities for the event:
 
 ### 📌 **(01) Guided Tours**  
 The group responsible for organizing and offering tours of the HHN (e.g., Technology Labs, Makerspace, Digilab).  
-➡️ **[Join the Guided Tours Team](#)**
+➡️ **[Join the Guided Tours Team](https://github.com/users/FIS001/projects/8)**
 
 ### 📌 **(02) External Partner Workshops**  
 The group responsible for organizing and delivering external partner workshops (e.g., SAP, AI Salon).  
